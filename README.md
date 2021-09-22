@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Eduardo Flores
+- 👀 I’m interested in technology, programming and archery.
+- 🌱 I’m currently learning design patterns.
+- 💞️ I’m looking to collaborate on projects.
+- 📫 You can reach me at [Telegram](t.me/edfloreshz)
